@@ -1,0 +1,21 @@
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
+}
+
+.form {
+    margin: auto;
+    background-color: #E8E8E8;
+    width: auto;
+    padding: 10px;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
