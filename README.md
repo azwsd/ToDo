@@ -1,7 +1,7 @@
 # ToDo
 #### Video Demo:  <https://youtu.be/aYCOO1lqW8I>
 #### Description:
-Simple wep application using flask, html, css to create todo list.
+Simple web application using flask, html, css to create todo list.
 It has register and login functionality allowing multible users, having their own to do list.
 
 ---
